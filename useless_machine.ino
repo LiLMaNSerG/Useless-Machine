@@ -1,6 +1,6 @@
 #include <Servo.h>
 
-// Create a Servo object
+// Creates a Servo object
 Servo myservo;
 
 // Pin Definition
@@ -15,17 +15,16 @@ unsigned long lastDebounceTime = 0;
 unsigned long debounceDelay = 50;
 
 void setup() {
-  // put your setup code here, to run once:
   pinMode(switchPin, INPUT);
   myservo.attach(servoPin);
-  Serial.begin(9600);
-  myservo.write(55);
+  Serial.begin(9600);           // (Optional) For output debugging within the console.
+  myservo.write(55);            // Initialize the servo to 55 degrees.
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   int reading = digitalRead(switchPin);
   
+  // A digital debounce which sets the state of the switch after allowing some time for stabilization.
   if (reading != lastSwitchState){
     lastDebounceTime = millis();
   }
@@ -34,9 +33,9 @@ void loop() {
       switchState = reading;
       if (switchState == HIGH){
         Serial.print("Switch On\n");
-        myservo.write(170);
+        myservo.write(170);    // Activate the arm for disarming the switch.
         delay(1000);
-        myservo.write(55);
+        myservo.write(55);     // Return the arm.
         //delay(1000);
       }
     }  
