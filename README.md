@@ -16,7 +16,7 @@ I've been wanting to learn an Arduino's capabilities for some time and I thought
 ### Supplies
 - Ardunio Uno
 - [Wooden Box](https://www.michaels.com/wooden-box-by-artminds/10357776.html)
-- Standard Servo Motor : I am using a [Futaba S3003](https://www.amazon.com/Futaba-FUTM0031-S3003-Standard-Servo/dp/B0015H2V72/). You will want to make sure the servo has enough torque to fully depress the switch.
+- Standard Servo Motor : I am using a [Futaba S3003](https://www.amazon.com/Futaba-FUTM0031-S3003-Standard-Servo/dp/B0015H2V72/). You will want to make sure the servo has enough torque to fully return the switch.
 - [Servo Bracket](https://www.amazon.com/gp/product/B07PQ12TXS/) : Perfect for mounting to the underside of the door.
 - 2 x 4-AA Battery Packs: I am using one for powering the Arduino and another for powering the servo. 
 - 10K Ohm Resistor
