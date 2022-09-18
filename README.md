@@ -1,8 +1,10 @@
 # Useless-Machine
-A mysterious contraption with only one purpose.
+A mysterious contraption with a single purpose.
 
 ## About the Project
-With spare parts that I had laying around, I was motivated to build my own version of the (not-so) Useless Machine. I've been wanting to learn how to use an Arduino for a while and thought this would be a great opportunity.
+I tend to have spare parts laying around, hoping one day I'd find a use for them. In this case, I had an Arduino and a motivation to build a simple machine that does one thing *perfectly*. When the unsuspecting operator activates the ominous switch, the (not-so) Useless Machine attempts to return the switch to its original state. I've been wanting to learn how to use an Arduino for some time and I thought this would be a great opportunity to apply it to a nice novelty on our coffee table.
+
+[**VIDEO IN ACTION!**](https://youtube.com/shorts/QYdTbU0E2AE?feature=share)
 
 ![what-is-my-purpose](https://user-images.githubusercontent.com/15962563/190886483-8a41b292-ac67-48ad-af85-31dabe97b5ba.png)
 
@@ -20,11 +22,18 @@ With spare parts that I had laying around, I was motivated to build my own versi
 #### Project Diagram ####
 ![Useless Machine Schematic](https://user-images.githubusercontent.com/15962563/190888256-2d461236-8c5b-40c9-81d2-9f7f4ce36a88.png)
 
+![Useless Machine_insideBox](https://user-images.githubusercontent.com/15962563/190889304-1dc83427-7704-4b44-96e2-efa837210e5a.jpg)
+
 #### Features ####
 This build utilizes a pull-down resistor circuit to provide the Arduino cleaner recognition on the input (Pin 2) when the switch is activated. In addition, I am using a a digital debounce within the code to alleviate mechanical noise.
 
 ### End Result ###
+![Useless Machine_main](https://user-images.githubusercontent.com/15962563/190889309-f7decbee-1d27-4654-83c6-d600c9b558a1.jpg)
 
+![Useless Machine_open](https://user-images.githubusercontent.com/15962563/190889321-71d0d4b4-2494-4bde-afcd-a54bffd55856.jpg)
 
 ### Contact
 You can reach out to me, Sergio Perez, at my [email](sperez.cpp@gmail.com).
+
+
+
