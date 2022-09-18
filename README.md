@@ -4,9 +4,9 @@ A mysterious contraption with a single purpose.
 ![what-is-my-purpose](https://user-images.githubusercontent.com/15962563/190886483-8a41b292-ac67-48ad-af85-31dabe97b5ba.png)
 
 ## About the Project
-I tend to have spare parts around hoping one day I'd find a use for them. In this case, I had an Arduino and a motivation to build a simple machine that does one thing *perfectly*. When the unsuspecting operator activates the ominous switch, the (not-so) Useless Machine returns itself to its original state. 
+I tend to have a box of spare parts hoping one day I'd find a use for them. In this case, I had an Arduino and a motivation to build a simple machine that does one thing *perfectly*. When the unsuspecting operator activates the ominous switch, the (not-so) Useless Machine returns itself to its original state. 
 
-I've been wanting to learn an Arduino's capabilities for some time and I thought this would be a great opportunity to apply it to a nice novelty for our coffee table.
+I've been wanting to learn the Arduino's capabilities and how it can be used for some time. I thought this would be a great opportunity to apply it to a nice novelty for our coffee table.
 
 [**VIDEO IN ACTION!**](https://youtube.com/shorts/QYdTbU0E2AE?feature=share)
 
@@ -29,7 +29,12 @@ I've been wanting to learn an Arduino's capabilities for some time and I thought
 ![Useless Machine_insideBox](https://user-images.githubusercontent.com/15962563/190889304-1dc83427-7704-4b44-96e2-efa837210e5a.jpg)
 
 #### Features ####
-This build utilizes a pull-down resistor circuit to provide the Arduino cleaner recognition on the input (Pin 2) when the switch is activated. In addition, I am using a a digital debounce within the code to alleviate mechanical noise.
+This build utilizes a pull-down resistor circuit to provide the Arduino cleaner recognition on the input (Pin 2) when the switch is activated. In addition, I am using a digital debounce within the code to address mechanical noise within the switch contacts.
+
+## Next Steps ##
+- [] Add additional behavior/reactions for the servo arm when the switch is activated. 
+- [] Mount and incorporate an additional servo motor to control the door. This will expand on the options for how the servo arm mechanism can "behave/react".
+- [] Add a lightweight speaker for sound reactions.
 
 ## Acknowledgements ###
 *A special thanks to my source of inspiration. You inspire my curiousity.*
