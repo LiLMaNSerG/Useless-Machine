@@ -4,7 +4,7 @@ A mysterious contraption with a single purpose.
 ![what-is-my-purpose](https://user-images.githubusercontent.com/15962563/190886483-8a41b292-ac67-48ad-af85-31dabe97b5ba.png)
 
 ## About the Project
-I tend to have spare parts around, hoping one day I'd find a use for them. In this case, I had an Arduino and a motivation to build a simple machine that does one thing *perfectly*. When the unsuspecting operator activates the ominous switch, the (not-so) Useless Machine returns the switch to its original state. 
+I tend to have spare parts around, hoping one day I'd find a use for them. In this case, I had an Arduino and a motivation to build a simple machine that does one thing *perfectly*. When the unsuspecting operator activates the ominous switch, the (not-so) Useless Machine returns itself to its original state. 
 
 I've been wanting to learn an Arduino's capabilities for some time and I thought this would be a great opportunity to apply it to a nice novelty for our coffee table.
 
