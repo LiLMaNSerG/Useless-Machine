@@ -40,7 +40,3 @@ This build utilizes a pull-down resistor circuit to provide the Arduino cleaner 
 *A special thanks to my source of inspiration. You inspire my curiousity.*
 
 ![Percy Useless Box](https://user-images.githubusercontent.com/15962563/190889735-faf2587e-542d-499a-a450-f3c3591e5a18.png)
-
-## Contact
-You can reach out to me, Sergio Perez, at my [email](sperez.cpp@gmail.com).
-
