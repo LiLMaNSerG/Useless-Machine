@@ -1,3 +1,7 @@
+// Useless Machine Project
+// Description: When the operator activates the ominous switch (switchState = HIGH), the servo motor articulates the arm
+// to turn-off the switch and return itself back to its original state. 
+
 #include <Servo.h>
 
 // Creates a Servo object
@@ -17,7 +21,7 @@ void setup() {
   pinMode(switchPin, INPUT);
   myservo.attach(servoPin);
   Serial.begin(9600);           // (Optional) For output debugging within the console.
-  myservo.write(55);            // Initialize the servo to 55 degrees to fit within the box.
+  myservo.write(55);            // Initialize the servo to 55-degrees to fit within the box.
 }
 
 void loop() {
@@ -31,11 +35,10 @@ void loop() {
     if (reading != switchState){
       switchState = reading;
       if (switchState == HIGH){
-        Serial.print("Switch On\n");
+        Serial.print("Switch On\n");   // Report to console when the switch is activated.
         myservo.write(170);    // Activate the arm and set to 170-degrees for disarming the switch.
         delay(1000);
-        myservo.write(55);     // Return the arm to 55 degress.
-        //delay(1000);
+        myservo.write(55);     // Return the arm to 55-degrees.
       }
     }  
   }
