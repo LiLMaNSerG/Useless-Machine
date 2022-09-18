@@ -15,3 +15,5 @@ With spare parts that I had laying around, I was motivated to build my own versi
 - 2 x 4-AA Battery Packs: I am using one for powering the Arduino and another for powering the servo. 
 - 10K Ohm Resistor
 - SPST (Single Pole, Single Throw) Switch
+
+### Setup
