@@ -17,3 +17,5 @@ With spare parts that I had laying around, I was motivated to build my own versi
 - SPST (Single Pole, Single Throw) Switch
 
 ### Setup
+**Project Diagram**
+![Useless Machine Schematic](https://user-images.githubusercontent.com/15962563/190888256-2d461236-8c5b-40c9-81d2-9f7f4ce36a88.png)
