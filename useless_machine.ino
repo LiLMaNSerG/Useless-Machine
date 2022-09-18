@@ -1,6 +1,6 @@
 // Useless Machine Project
-// Description: When the operator activates the ominous switch (switchState = HIGH), the servo motor articulates the arm
-// to turn-off the switch and return itself back to its original state. 
+// Description: When the operator activates the switch (switchState = HIGH), the servo motor articulates the arm
+// to turn-off the switch and return itself back to its original state (switchState = LOW). 
 
 #include <Servo.h>
 
