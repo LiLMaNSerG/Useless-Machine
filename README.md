@@ -32,10 +32,9 @@ This build utilizes a pull-down resistor circuit to provide the Arduino cleaner 
 ### End Result ###
 ![Useless Machine_main](https://user-images.githubusercontent.com/15962563/190889309-f7decbee-1d27-4654-83c6-d600c9b558a1.jpg)
 
-![Useless Machine_open](https://user-images.githubusercontent.com/15962563/190889321-71d0d4b4-2494-4bde-afcd-a54bffd55856.jpg)
+*Special thanks to my source of inspiration. You inspire my curiousity.*
+![Percy Useless Box](https://user-images.githubusercontent.com/15962563/190889735-faf2587e-542d-499a-a450-f3c3591e5a18.png)
 
 ### Contact
 You can reach out to me, Sergio Perez, at my [email](sperez.cpp@gmail.com).
-
-
 
