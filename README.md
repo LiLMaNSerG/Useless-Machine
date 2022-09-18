@@ -17,5 +17,14 @@ With spare parts that I had laying around, I was motivated to build my own versi
 - SPST (Single Pole, Single Throw) Switch
 
 ### Setup
-**Project Diagram**
+#### Project Diagram ####
 ![Useless Machine Schematic](https://user-images.githubusercontent.com/15962563/190888256-2d461236-8c5b-40c9-81d2-9f7f4ce36a88.png)
+
+#### Features ####
+This build utilizes a pull-down resistor circuit to provide the Arduino cleaner recognition on the input (Pin 2) when the switch is activated. In addition, I am using a a digital debounce within the code to alleviate mechanical noise.
+
+### End Result ###
+
+
+### Contact
+You can reach out to me, Sergio Perez, at my [email](sperez.cpp@gmail.com).
