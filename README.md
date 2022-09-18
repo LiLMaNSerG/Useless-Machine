@@ -31,7 +31,7 @@ I've been wanting to learn an Arduino's capabilities for some time and I thought
 #### Features ####
 This build utilizes a pull-down resistor circuit to provide the Arduino cleaner recognition on the input (Pin 2) when the switch is activated. In addition, I am using a a digital debounce within the code to alleviate mechanical noise.
 
-### Contributions ###
+### Acknowledgements ###
 *A special thanks to my source of inspiration. You inspire my curiousity.*
 
 ![Percy Useless Box](https://user-images.githubusercontent.com/15962563/190889735-faf2587e-542d-499a-a450-f3c3591e5a18.png)
