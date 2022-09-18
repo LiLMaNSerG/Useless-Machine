@@ -10,6 +10,8 @@ I've been wanting to learn an Arduino's capabilities for some time and I thought
 
 [**VIDEO IN ACTION!**](https://youtube.com/shorts/QYdTbU0E2AE?feature=share)
 
+![Useless Machine_main](https://user-images.githubusercontent.com/15962563/190889309-f7decbee-1d27-4654-83c6-d600c9b558a1.jpg)
+
 ## Getting Started
 ### Supplies
 - Ardunio Uno
@@ -29,10 +31,9 @@ I've been wanting to learn an Arduino's capabilities for some time and I thought
 #### Features ####
 This build utilizes a pull-down resistor circuit to provide the Arduino cleaner recognition on the input (Pin 2) when the switch is activated. In addition, I am using a a digital debounce within the code to alleviate mechanical noise.
 
-### End Result ###
-![Useless Machine_main](https://user-images.githubusercontent.com/15962563/190889309-f7decbee-1d27-4654-83c6-d600c9b558a1.jpg)
+### Contributions ###
+*A special thanks to my source of inspiration. You inspire my curiousity.*
 
-*Special thanks to my source of inspiration. You inspire my curiousity.*
 ![Percy Useless Box](https://user-images.githubusercontent.com/15962563/190889735-faf2587e-542d-499a-a450-f3c3591e5a18.png)
 
 ### Contact
