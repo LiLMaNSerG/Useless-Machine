@@ -23,7 +23,7 @@ I've been wanting to learn an Arduino's capabilities for some time and I thought
 - SPST (Single Pole, Single Throw) Switch
 
 ### Setup
-#### Project Diagram ####
+#### Project Schematic ####
 ![Useless Machine Schematic](https://user-images.githubusercontent.com/15962563/190888256-2d461236-8c5b-40c9-81d2-9f7f4ce36a88.png)
 
 ![Useless Machine_insideBox](https://user-images.githubusercontent.com/15962563/190889304-1dc83427-7704-4b44-96e2-efa837210e5a.jpg)
