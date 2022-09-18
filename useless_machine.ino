@@ -10,7 +10,6 @@ const int servoPin = 9;
 // Variable Definition
 int switchState;
 int lastSwitchState = LOW;
-int pos = 0;
 unsigned long lastDebounceTime = 0;
 unsigned long debounceDelay = 50;
 
