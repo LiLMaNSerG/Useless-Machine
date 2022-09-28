@@ -32,9 +32,9 @@ I've been wanting to incorporate an Ardunio into one of my hobby projects for qu
 This build utilizes a pull-down resistor circuit to provide the Arduino cleaner recognition on the input (Pin 2) when the switch is activated. In addition, I am using a digital debounce within the code to address mechanical noise within the switch contacts.
 
 ## Next Steps ##
-- [ ] Add additional behavior/reactions for the servo arm when the switch is activated. 
-- [ ] Mount and incorporate an additional servo motor to control the door. This will expand on the options for how the servo arm mechanism can "behave/react".
-- [ ] Add a lightweight speaker for sound reactions.
+- [ ] Add additional reactions for the servo arm when the switch is activated. 
+- [ ] Mount and incorporate an additional servo motor to control the door. This will offer options for how the servo arm mechanism can "behave/react".
+- [ ] Install a lightweight speaker for adding sound to the reactions.
 
 ## Acknowledgements ###
 *A special thanks to my source of inspiration. You inspire my curiousity.*
