@@ -6,7 +6,7 @@ A mysterious contraption with a single purpose.
 ## About the Project
 I tend to have a box of spare parts hoping one day I'd find a use for them. In this case, I had an Arduino and a motivation to build a simple machine that does one thing *perfectly*. When the unsuspecting operator activates the ominous switch, the (not-so) Useless Machine returns itself to its original state. 
 
-I've been wanting to learn the Arduino's capabilities and how it can be used for hobby projects. I thought this would be a great opportunity to apply it to a nice novelty for our coffee table.
+I've been wanting to incorporate an Ardunio into one of my hobby projects for quite some time. I thought this would be a great opportunity to apply it to a nice novelty for my coffee table.
 
 [**VIDEO IN ACTION!**](https://youtube.com/shorts/QYdTbU0E2AE?feature=share)
 
