@@ -33,7 +33,7 @@ This build utilizes a pull-down resistor circuit to provide the Arduino cleaner 
 
 ## Next Steps ##
 - [ ] Add additional reactions for the servo arm when the switch is activated. 
-- [ ] Mount and incorporate an additional servo motor to control the door. This will offer options for how the servo arm mechanism can "behave/react".
+- [ ] Mount an additional servo motor to control the door. This will also expand the options for how the servo arm mechanism can "behave/react".
 - [ ] Install a lightweight speaker for adding sound to the reactions.
 
 ## Acknowledgements ###
